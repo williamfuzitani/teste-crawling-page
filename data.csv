@@ -1,390 +1,390 @@
-BRAND,MODEL,TRIM,YEAR,NAME,INTERFACE,POWER,CURRENT
-e.GO,Life,20,2019,On-board charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",3.7 kW,16 A
-e.GO,Life,40,2019,On-board charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",3.7 kW,16 A
-Porsche,Taycan,Turbo,2020,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Porsche,Taycan,Turbo,2020,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
-e.GO,Life,60,2019,On-board charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",3.7 kW,16 A
-Chevrolet,Spark EV,,2015,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,-
-Volkswagen,e-Golf,,2014,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-BMW,i3,22 kWh,2014,Onboarch charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,7.4 A
-BMW,i3,22 kWh,2014,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.4 A
-Tesla,Roadster 1.5,,2008,Onboard charger,Tesla charging inlet,-,-
-Peugeot,e-208 GT,,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
-Rivian,R1T,135 kWh,2020,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
-Chevrolet,Spark EV,,2014,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,-
-Rivian,R1S,135 kWh,2020,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
-Nissan,Leaf,SV,2011,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
-Nissan,Leaf,SL,2011,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
-Nissan,Leaf,SL,2011,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Mercedes-Benz,EQC,400 4MATIC,2020,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.4 kW,-
-Hyundai,KONA Electric,39 kWh,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-Hyundai,IONIQ Electric,38.3 kWh,2020,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,48 A
-Audi,e-tron 55 quattro,Premium Plus,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",9.6 kW,-
-Hyundai,KONA Electric,64 kWh,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-Audi,e-tron 55 quattro,Prestige,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",9.6 kW,-
-Audi,Q4 e-tron,concept,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,-
-Hyundai,IONIQ Electric,28 kWh,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",6.6 kW,-
-Hyundai,IONIQ Electric,28 kWh,2019,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",6.6 kW,-
-KIA,Soul EV,,2015,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
-KIA,Soul EV,,2015,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-KIA,Soul EV,,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-Audi,e-tron 55 quattro,,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
-Audi,e-tron 55 quattro,,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",22 kW,-
-Jaguar,I-Pace,,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7 kW,-
-Jaguar,I-Pace,,2019,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7 kW,-
-KIA,Soul EV,,2016,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
-KIA,Soul EV,,2016,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-KIA,Soul EV,,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-KIA,Soul EV,,2017,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
-KIA,Soul EV,,2017,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-KIA,Soul EV,,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-KIA,e-Niro,39 kWh,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-KIA,e-Niro,64 kWh,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-KIA,e-Niro,64 kWh,2019,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-KIA,Soul EV,,2018,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
-Renault,Zoe,Q210,2013,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",43 kW,-
-KIA,Soul EV,,2018,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-KIA,Soul EV,,2018,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-KIA,Soul EV,,2019,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
-KIA,Soul EV,,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-KIA,Soul EV,,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-KIA,Soul EV,64 kWh,2020,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-KIA,Soul EV,64 kWh,2020,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Renault,Zoe,R240,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Renault,Zoe,Swiss Edition,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Renault,Zoe,R90,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Renault,Zoe,R110,2018,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Renault,Zoe,Q90,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",43 kW,-
-Renault,Zoe,R90,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Renault,Zoe,Q90,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",43 kW,-
-Renault,Zoe,Expression Nav R90,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Renault,Zoe,R110,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Renault,Zoe,R110,2020,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",22 kW,-
-Renault,Zoe,R135,2020,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",22 kW,-
-NIO,ES8,70 kWh,2018,DC charging port,-,-,250 A
-NIO,ES8,70 kWh,2018,AC charging port,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7 kW,32 A
-NIO,ES8,84 kWh,2019,DC charging port,-,-,250 A
-NIO,ES8,84 kWh,2019,AC charging port,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7 kW,32 A
-Nissan,Leaf,SL,2012,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
-Nissan,Leaf,SL,2012,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-KIA,Soul EV,39 kWh,2020,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-KIA,Soul EV,39 kWh,2020,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Nissan,Leaf,SV,2012,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
-Nissan,Leaf,S,2013,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
-Nissan,Leaf,S,2013,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,S,2013,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SV,2013,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SV,2013,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SL,2013,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SL,2013,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,S,2014,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
-Nissan,Leaf,S,2014,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,S,2014,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-NIO,ES6,Standard 70 kWh,2019,DC charging port,-,-,250 A
-NIO,ES6,Standard 70 kWh,2019,AC charging port,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7 kW,32 A
-Nissan,Leaf,SL,2014,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SL,2014,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,S,2015,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
-Nissan,Leaf,S,2015,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,S,2015,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SL,2015,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SL,2015,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SV,2015,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SV,2015,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,S,2016,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
-Nissan,Leaf,S,2016,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,S,2016,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SV,2016,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SV,2016,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SV,2014,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SV,2014,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,S,2017,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
-Nissan,Leaf,S,2017,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,S,2017,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SV,2017,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SV,2017,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SL,2017,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SL,2017,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,S,2018,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,S,2018,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SL,2016,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SL,2016,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SV,2018,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SV,2018,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SL,2018,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SL,2018,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SV,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SV,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-Nissan,Leaf,SV,2019,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,SL,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SL,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-Nissan,Leaf,SL,2019,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Nissan,Leaf,S Plus,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,S Plus,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-Nissan,Leaf,S Plus,2019,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",100 kW,-
-Nissan,Leaf,SV Plus,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-Nissan,Leaf,SV Plus,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SV Plus,2019,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",100 kW,-
-Tesla,Roadster 2.0,,2009,Onboard charger,Tesla charging inlet,-,-
-Nissan,Leaf,S,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-Nissan,Leaf,S,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,S,2019,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
-Tesla,Roadster Sport 2.0,,2009,Onboard charger,Tesla charging inlet,-,-
-Tesla,Roadster 2.5,,2010,Onboard charger,Tesla charging inlet,-,-
-Nissan,Leaf,SL Plus,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
-Nissan,Leaf,SL Plus,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
-Nissan,Leaf,SL Plus,2019,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",100 kW,-
-Tesla,Model S,Signature 85 RWD,2012,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,Signature 85 RWD,2012,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,Performance P85 RWD,2013,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,Performance P85 RWD,2013,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,Base 60 RWD,2013,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,Base 60 RWD,2013,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,Signature 85 RWD,2013,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,Signature 85 RWD,2013,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,Base 85 RWD,2013,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,Base 85 RWD,2013,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,Signature Performance P85,2013,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,Signature Performance P85,2013,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,Performance Plus P85+,2013,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,Performance Plus P85+,2013,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,85 RWD,2014,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,85 RWD,2014,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,85 RWD,2014,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,85 RWD,2014,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,P85 RWD,2014,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,P85 RWD,2014,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P85 RWD,2014,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,P85 RWD,2014,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,Base 40 RWD,2013,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,Base 40 RWD,2013,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,P85D 165kW+350kW,2014,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,P85D 165kW+350kW,2014,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P85D 165kW+350kW,2014,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,P85D 165kW+350kW,2014,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,P85+,2014,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,P85+,2014,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P85+,2014,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,P85+,2014,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,60 RWD,2014,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,60 RWD,2014,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,60 RWD,2014,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,60 RWD,2014,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,60 RWD,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,60 RWD,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,60 RWD,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,60 RWD,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,85 RWD,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,85 RWD,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,85 RWD,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,85 RWD,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,85D 140kW+140kW,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,85D 140kW+140kW,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,85D 140kW+140kW,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,85D 140kW+140kW,2015,Twin charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,70D 193kW+193kW,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,70D 193kW+193kW,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,70D 193kW+193kW,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,70D 193kW+193kW,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,70D 140kW+140kW,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,70D 140kW+140kW,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,70D 140kW+140kW,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,70D 140kW+140kW,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,70 RWD,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,70 RWD,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,70 RWD,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,70 RWD,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,85D 193kW+193kW,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,85D 193kW+193kW,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,85D 193kW+193kW,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,85D 193kW+193kW,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,P85D 193kW+375kW,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,P85D 193kW+375kW,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P85D 193kW+375kW,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,P85D 193kW+375kW,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,P85DL Ludicrous,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,P85DL Ludicrous,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P85DL Ludicrous,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,P85DL Ludicrous,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,90 RWD,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,90 RWD,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,90 RWD,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,90 RWD,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Volkswagen,e-Golf,Limited Edition,2015,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Volkswagen,e-Golf,Limited Edition,2015,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-Tesla,Model S,90D,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,90D,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,90D,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,90D,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Volkswagen,e-Golf,SEL Premium,2016,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Volkswagen,e-Golf,SEL Premium,2016,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-Volkswagen,e-Golf,SEL Premium,2015,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-Volkswagen,e-Golf,SEL Premium,2015,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Volkswagen,e-Golf,SE,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7.2 kW,-
-Volkswagen,e-Golf,SE,2017,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
-Volkswagen,e-Golf,SE,2016,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Volkswagen,e-Golf,SE,2016,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-Volkswagen,e-up!,,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",-,7.2 A
-Volkswagen,e-up!,,2016,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.2 A
-Volkswagen,e-Golf,Limited Edition,2017,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
-Volkswagen,e-Golf,Limited Edition,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7.2 kW,-
-Volkswagen,e-Golf,SEL Premium,2017,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
-Volkswagen,e-Golf,SEL Premium,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7.2 kW,-
-Volkswagen,e-Golf,SE,2019,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Volkswagen,e-Golf,SE,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
-Volkswagen,e-up!,,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",-,7.2 A
-Volkswagen,e-up!,,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.2 A
-Volkswagen,e-Golf,SEL Premium,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7.2 kW,-
-Volkswagen,e-Golf,SEL Premium,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
-Tesla,Model X,75D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,75D,2016,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,70D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,70D,2016,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model S,P90DL Ludicrous,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,P90DL Ludicrous,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P90DL Ludicrous,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,P90DL Ludicrous,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model S,P90D,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,P90D,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P90D,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,P90D,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model X,60D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,60D,2016,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,90D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,90D,2016,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,90D,2016,Onboard charger,Tesla charging inlet,17.28 kW,72 A
-Tesla,Model S,P85D 165kW+350kW,2015,Onboard charger,Tesla charging inlet,10 kW,40 A
-Tesla,Model S,P85D 165kW+350kW,2015,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P85D 165kW+350kW,2015,Twin chargers,Tesla charging inlet,20 kW,80 A
-Tesla,Model S,P85D 165kW+350kW,2015,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
-Tesla,Model X,P90D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,P90D,2016,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,P90D,2016,Onboard charger,Tesla charging inlet,17.28 kW,72 A
-Tesla,Model S,70 RWD,2016,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,70 RWD,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,70 RWD,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,70D,2016,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,70D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,70D,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,P90D,2016,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,P90D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P90D,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,90D,2016,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,90D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,90D,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,P90DL Ludicrous,2016,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,P90DL Ludicrous,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P90DL Ludicrous,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model X,P100D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,P100D,2016,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,P100D,2016,Onboard charger,Tesla charging inlet,17.28 kW,72 A
-Tesla,Model S,60D,2016,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,60D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,60D,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Roadster 3.0,,2016,Onboard charger,Tesla charging inlet,-,-
-Tesla,Model S,75 RWD,2016,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,75 RWD,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,75 RWD,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,P100D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P100D,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model X,75D,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,75D,2017,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model S,75D,2016,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,75D,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,75D,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model X,P100D,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,P100D,2017,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,P100D,2017,Onboard charger,Tesla charging inlet,17.28 kW,72 A
-Tesla,Model X,90D,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,90D,2017,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,90D,2017,Onboard charger,Tesla charging inlet,17.28 kW,72 A
-Tesla,Model S,60 RWD Gen 2,2017,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,60 RWD Gen 2,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,60 RWD Gen 2,2017,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model X,100D,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,100D,2017,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,100D,2017,Onboard charger,Tesla charging inlet,17.28 kW,72 A
-Tesla,Model S,60D,2017,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,60D,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,60D,2017,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,75 RWD,2017,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,75 RWD,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,75 RWD,2017,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,60 RWD Gen 2,2016,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,60 RWD Gen 2,2016,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,60 RWD Gen 2,2016,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model 3,Long Range RWD,2017,Onboard charger,Tesla charging inlet,11.5 kW,40 A
-Tesla,Model S,P100D,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P100D,2017,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,75D,2017,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,75D,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,75D,2017,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,100D,2017,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,100D,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,100D,2017,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model X,75D,2018,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,75D,2018,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,100D,2018,Onboard chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,100D,2018,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,100D,2018,Onboard charger,Tesla charging inlet,17.28 kW,72 A
-Tesla,Model X,P100D,2018,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,P100D,2018,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,P100D,2018,Onboard charger,Tesla charging inlet,17.28 kW,72 A
-Tesla,Model S,75D,2018,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,75D,2018,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,75D,2018,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,100D,2018,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,100D,2018,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,100D,2018,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,P100D,2018,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,P100D,2018,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,P100D,2018,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model 3,Long Range RWD,2018,Onboard charger,Tesla charging inlet,11.5 kW,40 A
-Tesla,Model 3,Mid Range RWD,2018,Onboard charger,Tesla charging inlet,11.5 kW,32 A
-Tesla,Model 3,Long Range AWD,2018,Onboard charger,Tesla charging inlet,11.5 kW,40 A
-Tesla,Model S,90D,2017,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,90D,2017,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,90D,2017,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model 3,Performance AWD,2018,Onboard charger,Tesla charging inlet,11.5 kW,40 A
-Tesla,Model S,Long Range,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,Long Range,2019,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model S,Performance,2019,Onboard charger,Tesla charging inlet,-,72 A
-Tesla,Model S,Performance,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,Performance,2019,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-Tesla,Model 3,Mid Range RWD,2019,Onboard charger,Tesla charging inlet,11.5 kW,32 A
-Tesla,Model 3,Long Range AWD,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,-
-Tesla,Model 3,Long Range AWD,2019,Onboard charger,Tesla charging inlet,11.5 kW,40 A
-Tesla,Model X,Long Range,2019,Onboard chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,Long Range,2019,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,Long Range,2019,Onboard charger,Tesla charging inlet,17.28 kW,72 A
-Tesla,Model 3,Performance AWD,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,-
-Tesla,Model 3,Performance AWD,2019,Onboard charger,Tesla charging inlet,11.5 kW,40 A
-Tesla,Model 3,Standard Range Plus RWD,2019,Onboard charger,Tesla charging inlet,11.5 kW,32 A
-Tesla,Model 3,Standard Range RWD,2019,Onboard charger,Tesla charging inlet,11.5 kW,32 A
-Tesla,Model 3,Long Range RWD,2019,Onboard charger,Tesla charging inlet,11.5 kW,32 A
-BMW,i3,22 kWh,2015,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.4 A
-BMW,i3,22 kWh,2015,Onboarch charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,7.4 A
-BMW,i3,33 kWh,2017,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
-BMW,i3,33 kWh,2017,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
-Tesla,Model S,Standard Range,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model S,Standard Range,2019,Onboard charger,Tesla charging inlet,11.5 kW,48 A
-BMW,i3,33 kWh,2018,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
-BMW,i3,33 kWh,2018,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
-BMW,i3,42 kWh,2019,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
-BMW,i3,42 kWh,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
-BMW,i3,22 kWh,2016,Onboarch charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,7.4 A
-BMW,i3,22 kWh,2016,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.4 A
-BMW,i3s,42 kWh,2019,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
-BMW,i3s,42 kWh,2019,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
-BMW,i3s,33 kWh,2018,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
-BMW,i3s,33 kWh,2018,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
-Chevrolet,Spark EV,,2016,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,-
-Chevrolet,Bolt EV,,2018,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
-Chevrolet,Bolt EV,,2018,Optional onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Chevrolet,Bolt EV,,2019,Optional onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Chevrolet,Bolt EV,,2019,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
-Chevrolet,Bolt EV,,2017,Optional onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
-Chevrolet,Bolt EV,,2017,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
-Tesla,Model X,Performance,2019,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
-Tesla,Model X,Performance,2019,Onboard charger,Tesla charging inlet,11.52 kW,48 A
-Tesla,Model X,Performance,2019,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+BRAND,MODEL,TRIM,YEAR,IMAGE LINK,NAME,INTERFACE,POWER,CURRENT
+Peugeot,e-208 GT,,2019,https://www.evspecifications.com/images/model/c61ca2/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
+Chevrolet,Spark EV,,2014,https://www.evspecifications.com/images/model/72e5af/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,-
+Chevrolet,Spark EV,,2015,https://www.evspecifications.com/images/model/1e5eb0/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,-
+BMW,i3,22 kWh,2014,https://www.evspecifications.com/images/model/45207c/640/main.jpg,Onboarch charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,7.4 A
+BMW,i3,22 kWh,2014,https://www.evspecifications.com/images/model/45207c/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.4 A
+BMW,i3,22 kWh,2015,https://www.evspecifications.com/images/model/f7d27d/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.4 A
+BMW,i3,22 kWh,2015,https://www.evspecifications.com/images/model/f7d27d/640/main.jpg,Onboarch charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,7.4 A
+BMW,i3,33 kWh,2017,https://www.evspecifications.com/images/model/d1d77f/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
+BMW,i3,33 kWh,2017,https://www.evspecifications.com/images/model/d1d77f/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
+BMW,i3,33 kWh,2018,https://www.evspecifications.com/images/model/1a2980/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
+BMW,i3,33 kWh,2018,https://www.evspecifications.com/images/model/1a2980/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
+e.GO,Life,20,2019,https://www.evspecifications.com/images/model/dbcba5/640/main.jpg,On-board charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",3.7 kW,16 A
+Nissan,Leaf,SL Plus,2019,https://www.evspecifications.com/images/model/78f99b/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+Nissan,Leaf,SL Plus,2019,https://www.evspecifications.com/images/model/78f99b/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SL Plus,2019,https://www.evspecifications.com/images/model/78f99b/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",100 kW,-
+BMW,i3,22 kWh,2016,https://www.evspecifications.com/images/model/02757e/640/main.jpg,Onboarch charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,7.4 A
+BMW,i3,22 kWh,2016,https://www.evspecifications.com/images/model/02757e/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.4 A
+Nissan,Leaf,SV,2011,https://www.evspecifications.com/images/model/fe9f1/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
+Nissan,Leaf,SL,2011,https://www.evspecifications.com/images/model/b1e92/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
+Nissan,Leaf,SL,2011,https://www.evspecifications.com/images/model/b1e92/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Jaguar,I-Pace,,2019,https://www.evspecifications.com/images/model/189c93/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7 kW,-
+Jaguar,I-Pace,,2019,https://www.evspecifications.com/images/model/189c93/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7 kW,-
+Tesla,Model 3,Long Range RWD,2017,https://www.evspecifications.com/images/model/e16258/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,40 A
+Porsche,Taycan,Turbo,2020,https://www.evspecifications.com/images/model/bd84b2/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Porsche,Taycan,Turbo,2020,https://www.evspecifications.com/images/model/bd84b2/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
+Renault,Zoe,Q210,2013,https://www.evspecifications.com/images/model/332384/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",43 kW,-
+Tesla,Model S,Standard Range,2019,https://www.evspecifications.com/images/model/d14199/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,Standard Range,2019,https://www.evspecifications.com/images/model/d14199/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Renault,Zoe,Q90,2017,https://www.evspecifications.com/images/model/916086/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",43 kW,-
+Renault,Zoe,Swiss Edition,2017,https://www.evspecifications.com/images/model/bd3987/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Renault,Zoe,R90,2017,https://www.evspecifications.com/images/model/3d3688/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Renault,Zoe,R240,2015,https://www.evspecifications.com/images/model/113985/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Mercedes-Benz,EQC,400 4MATIC,2020,https://www.evspecifications.com/images/model/c7d2a8/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.4 kW,-
+Renault,Zoe,Expression Nav R90,2017,https://www.evspecifications.com/images/model/aff089/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Renault,Zoe,R110,2018,https://www.evspecifications.com/images/model/c09d8a/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Renault,Zoe,Q90,2019,https://www.evspecifications.com/images/model/bf8e8b/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",43 kW,-
+Renault,Zoe,R90,2019,https://www.evspecifications.com/images/model/d9a88c/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Renault,Zoe,R110,2020,https://www.evspecifications.com/images/model/dc3eac/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",22 kW,-
+Renault,Zoe,R135,2020,https://www.evspecifications.com/images/model/d323ad/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",22 kW,-
+Tesla,Roadster 1.5,,2008,https://www.evspecifications.com/images/model/0f3a60/640/main.jpg,Onboard charger,Tesla charging inlet,-,-
+Volkswagen,e-Golf,,2014,https://www.evspecifications.com/images/model/edba70/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+Tesla,Roadster 2.0,,2009,https://www.evspecifications.com/images/model/54fb61/640/main.jpg,Onboard charger,Tesla charging inlet,-,-
+Tesla,Roadster Sport 2.0,,2009,https://www.evspecifications.com/images/model/f00f62/640/main.jpg,Onboard charger,Tesla charging inlet,-,-
+Renault,Zoe,R110,2019,https://www.evspecifications.com/images/model/9cd48d/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Roadster 2.5,,2010,https://www.evspecifications.com/images/model/7cb763/640/main.jpg,Onboard charger,Tesla charging inlet,-,-
+Tesla,Model S,Signature 85 RWD,2013,https://www.evspecifications.com/images/model/532833/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,Signature 85 RWD,2013,https://www.evspecifications.com/images/model/532833/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,90D,2016,https://www.evspecifications.com/images/model/f20f46/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,90D,2016,https://www.evspecifications.com/images/model/f20f46/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,90D,2016,https://www.evspecifications.com/images/model/f20f46/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,Signature 85 RWD,2012,https://www.evspecifications.com/images/model/54972b/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,Signature 85 RWD,2012,https://www.evspecifications.com/images/model/54972b/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,Base 40 RWD,2013,https://www.evspecifications.com/images/model/b2c427/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,Base 40 RWD,2013,https://www.evspecifications.com/images/model/b2c427/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,Base 85 RWD,2013,https://www.evspecifications.com/images/model/40972a/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,Base 85 RWD,2013,https://www.evspecifications.com/images/model/40972a/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,Performance P85 RWD,2013,https://www.evspecifications.com/images/model/02e02c/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,Performance P85 RWD,2013,https://www.evspecifications.com/images/model/02e02c/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,Signature Performance P85,2013,https://www.evspecifications.com/images/model/6f152d/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,Signature Performance P85,2013,https://www.evspecifications.com/images/model/6f152d/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,Performance Plus P85+,2013,https://www.evspecifications.com/images/model/39a236/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,Performance Plus P85+,2013,https://www.evspecifications.com/images/model/39a236/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,P85 RWD,2014,https://www.evspecifications.com/images/model/657d30/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,P85 RWD,2014,https://www.evspecifications.com/images/model/657d30/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P85 RWD,2014,https://www.evspecifications.com/images/model/657d30/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,P85 RWD,2014,https://www.evspecifications.com/images/model/657d30/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,85 RWD,2014,https://www.evspecifications.com/images/model/81ed2f/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,85 RWD,2014,https://www.evspecifications.com/images/model/81ed2f/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,85 RWD,2014,https://www.evspecifications.com/images/model/81ed2f/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,85 RWD,2014,https://www.evspecifications.com/images/model/81ed2f/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,P85D 165kW+350kW,2014,https://www.evspecifications.com/images/model/750a31/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,P85D 165kW+350kW,2014,https://www.evspecifications.com/images/model/750a31/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P85D 165kW+350kW,2014,https://www.evspecifications.com/images/model/750a31/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,P85D 165kW+350kW,2014,https://www.evspecifications.com/images/model/750a31/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,P85+,2014,https://www.evspecifications.com/images/model/ceaf37/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,P85+,2014,https://www.evspecifications.com/images/model/ceaf37/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P85+,2014,https://www.evspecifications.com/images/model/ceaf37/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,P85+,2014,https://www.evspecifications.com/images/model/ceaf37/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,60 RWD,2015,https://www.evspecifications.com/images/model/95aa34/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,60 RWD,2015,https://www.evspecifications.com/images/model/95aa34/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,60 RWD,2015,https://www.evspecifications.com/images/model/95aa34/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,60 RWD,2015,https://www.evspecifications.com/images/model/95aa34/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,85 RWD,2015,https://www.evspecifications.com/images/model/b0593b/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,85 RWD,2015,https://www.evspecifications.com/images/model/b0593b/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,85 RWD,2015,https://www.evspecifications.com/images/model/b0593b/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,85 RWD,2015,https://www.evspecifications.com/images/model/b0593b/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,85D 140kW+140kW,2015,https://www.evspecifications.com/images/model/363432/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,85D 140kW+140kW,2015,https://www.evspecifications.com/images/model/363432/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,85D 140kW+140kW,2015,https://www.evspecifications.com/images/model/363432/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,85D 140kW+140kW,2015,https://www.evspecifications.com/images/model/363432/640/main.jpg,Twin charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,70D 193kW+193kW,2015,https://www.evspecifications.com/images/model/45c144/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,70D 193kW+193kW,2015,https://www.evspecifications.com/images/model/45c144/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,70D 193kW+193kW,2015,https://www.evspecifications.com/images/model/45c144/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,70D 193kW+193kW,2015,https://www.evspecifications.com/images/model/45c144/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,P85D 165kW+350kW,2015,https://www.evspecifications.com/images/model/69c83e/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,P85D 165kW+350kW,2015,https://www.evspecifications.com/images/model/69c83e/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P85D 165kW+350kW,2015,https://www.evspecifications.com/images/model/69c83e/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,P85D 165kW+350kW,2015,https://www.evspecifications.com/images/model/69c83e/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,60 RWD,2014,https://www.evspecifications.com/images/model/39812e/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,60 RWD,2014,https://www.evspecifications.com/images/model/39812e/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,60 RWD,2014,https://www.evspecifications.com/images/model/39812e/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,60 RWD,2014,https://www.evspecifications.com/images/model/39812e/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,70D 140kW+140kW,2015,https://www.evspecifications.com/images/model/517835/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,70D 140kW+140kW,2015,https://www.evspecifications.com/images/model/517835/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,70D 140kW+140kW,2015,https://www.evspecifications.com/images/model/517835/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,70D 140kW+140kW,2015,https://www.evspecifications.com/images/model/517835/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,70 RWD,2015,https://www.evspecifications.com/images/model/695f38/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,70 RWD,2015,https://www.evspecifications.com/images/model/695f38/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,70 RWD,2015,https://www.evspecifications.com/images/model/695f38/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,70 RWD,2015,https://www.evspecifications.com/images/model/695f38/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,Base 60 RWD,2013,https://www.evspecifications.com/images/model/c24629/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,Base 60 RWD,2013,https://www.evspecifications.com/images/model/c24629/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,85D 193kW+193kW,2015,https://www.evspecifications.com/images/model/80c83d/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,85D 193kW+193kW,2015,https://www.evspecifications.com/images/model/80c83d/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,85D 193kW+193kW,2015,https://www.evspecifications.com/images/model/80c83d/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,85D 193kW+193kW,2015,https://www.evspecifications.com/images/model/80c83d/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,P85D 193kW+375kW,2015,https://www.evspecifications.com/images/model/fa1f43/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,P85D 193kW+375kW,2015,https://www.evspecifications.com/images/model/fa1f43/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P85D 193kW+375kW,2015,https://www.evspecifications.com/images/model/fa1f43/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,P85D 193kW+375kW,2015,https://www.evspecifications.com/images/model/fa1f43/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,P85DL Ludicrous,2015,https://www.evspecifications.com/images/model/12cf3f/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,P85DL Ludicrous,2015,https://www.evspecifications.com/images/model/12cf3f/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P85DL Ludicrous,2015,https://www.evspecifications.com/images/model/12cf3f/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,P85DL Ludicrous,2015,https://www.evspecifications.com/images/model/12cf3f/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,90 RWD,2015,https://www.evspecifications.com/images/model/53774a/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,90 RWD,2015,https://www.evspecifications.com/images/model/53774a/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,90 RWD,2015,https://www.evspecifications.com/images/model/53774a/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,90 RWD,2015,https://www.evspecifications.com/images/model/53774a/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model X,70D,2016,https://www.evspecifications.com/images/model/b6521d/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,70D,2016,https://www.evspecifications.com/images/model/b6521d/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model S,90D,2015,https://www.evspecifications.com/images/model/9aa440/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,90D,2015,https://www.evspecifications.com/images/model/9aa440/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,90D,2015,https://www.evspecifications.com/images/model/9aa440/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,90D,2015,https://www.evspecifications.com/images/model/9aa440/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model S,P90D,2015,https://www.evspecifications.com/images/model/a98c41/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,P90D,2015,https://www.evspecifications.com/images/model/a98c41/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P90D,2015,https://www.evspecifications.com/images/model/a98c41/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,P90D,2015,https://www.evspecifications.com/images/model/a98c41/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+Tesla,Model X,75D,2016,https://www.evspecifications.com/images/model/842f1e/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,75D,2016,https://www.evspecifications.com/images/model/842f1e/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model S,P90DL Ludicrous,2015,https://www.evspecifications.com/images/model/e3ec47/640/main.jpg,Onboard charger,Tesla charging inlet,10 kW,40 A
+Tesla,Model S,P90DL Ludicrous,2015,https://www.evspecifications.com/images/model/e3ec47/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P90DL Ludicrous,2015,https://www.evspecifications.com/images/model/e3ec47/640/main.jpg,Twin chargers,Tesla charging inlet,20 kW,80 A
+Tesla,Model S,P90DL Ludicrous,2015,https://www.evspecifications.com/images/model/e3ec47/640/main.jpg,Twin chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",22 kW,-
+KIA,Soul EV,,2015,https://www.evspecifications.com/images/model/f45094/640/main.jpg,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
+KIA,Soul EV,,2015,https://www.evspecifications.com/images/model/f45094/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+KIA,Soul EV,,2015,https://www.evspecifications.com/images/model/f45094/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+Tesla,Model X,P90D,2016,https://www.evspecifications.com/images/model/ac0d21/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,P90D,2016,https://www.evspecifications.com/images/model/ac0d21/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,P90D,2016,https://www.evspecifications.com/images/model/ac0d21/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+Tesla,Model X,P100D,2016,https://www.evspecifications.com/images/model/1ef422/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,P100D,2016,https://www.evspecifications.com/images/model/1ef422/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,P100D,2016,https://www.evspecifications.com/images/model/1ef422/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+Tesla,Model S,70 RWD,2016,https://www.evspecifications.com/images/model/b0f439/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,70 RWD,2016,https://www.evspecifications.com/images/model/b0f439/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,70 RWD,2016,https://www.evspecifications.com/images/model/b0f439/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,70D,2016,https://www.evspecifications.com/images/model/df443a/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,70D,2016,https://www.evspecifications.com/images/model/df443a/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,70D,2016,https://www.evspecifications.com/images/model/df443a/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model X,90D,2016,https://www.evspecifications.com/images/model/c61f20/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,90D,2016,https://www.evspecifications.com/images/model/c61f20/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,90D,2016,https://www.evspecifications.com/images/model/c61f20/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+KIA,Soul EV,,2016,https://www.evspecifications.com/images/model/8ce695/640/main.jpg,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
+KIA,Soul EV,,2016,https://www.evspecifications.com/images/model/8ce695/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+KIA,Soul EV,,2016,https://www.evspecifications.com/images/model/8ce695/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+KIA,Soul EV,,2017,https://www.evspecifications.com/images/model/abf79d/640/main.jpg,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
+KIA,Soul EV,,2017,https://www.evspecifications.com/images/model/abf79d/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+KIA,Soul EV,,2017,https://www.evspecifications.com/images/model/abf79d/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+KIA,Soul EV,,2018,https://www.evspecifications.com/images/model/9c4e9e/640/main.jpg,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
+KIA,Soul EV,,2018,https://www.evspecifications.com/images/model/9c4e9e/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+KIA,Soul EV,,2018,https://www.evspecifications.com/images/model/9c4e9e/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+KIA,e-Niro,64 kWh,2019,https://www.evspecifications.com/images/model/42896e/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+KIA,e-Niro,64 kWh,2019,https://www.evspecifications.com/images/model/42896e/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+KIA,e-Niro,39 kWh,2019,https://www.evspecifications.com/images/model/d3b06f/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+KIA,Soul EV,,2019,https://www.evspecifications.com/images/model/b1159f/640/main.jpg,Onboard charger,"Type 4 (IEC 62196-3 AA, CHAdeMO)",-,-
+KIA,Soul EV,,2019,https://www.evspecifications.com/images/model/b1159f/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+KIA,Soul EV,,2019,https://www.evspecifications.com/images/model/b1159f/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+KIA,Soul EV,39 kWh,2020,https://www.evspecifications.com/images/model/f5ffa1/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+KIA,Soul EV,39 kWh,2020,https://www.evspecifications.com/images/model/f5ffa1/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+KIA,Soul EV,64 kWh,2020,https://www.evspecifications.com/images/model/e94fa0/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+KIA,Soul EV,64 kWh,2020,https://www.evspecifications.com/images/model/e94fa0/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+Tesla,Model S,P90D,2016,https://www.evspecifications.com/images/model/14ef45/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,P90D,2016,https://www.evspecifications.com/images/model/14ef45/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P90D,2016,https://www.evspecifications.com/images/model/14ef45/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model X,60D,2016,https://www.evspecifications.com/images/model/04ed1a/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,60D,2016,https://www.evspecifications.com/images/model/04ed1a/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model S,P90DL Ludicrous,2016,https://www.evspecifications.com/images/model/2f7248/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,P90DL Ludicrous,2016,https://www.evspecifications.com/images/model/2f7248/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P90DL Ludicrous,2016,https://www.evspecifications.com/images/model/2f7248/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,60 RWD Gen 2,2016,https://www.evspecifications.com/images/model/87444d/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,60 RWD Gen 2,2016,https://www.evspecifications.com/images/model/87444d/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,60 RWD Gen 2,2016,https://www.evspecifications.com/images/model/87444d/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,60D,2016,https://www.evspecifications.com/images/model/daea4e/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,60D,2016,https://www.evspecifications.com/images/model/daea4e/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,60D,2016,https://www.evspecifications.com/images/model/daea4e/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,75 RWD,2016,https://www.evspecifications.com/images/model/b6a44b/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,75 RWD,2016,https://www.evspecifications.com/images/model/b6a44b/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,75 RWD,2016,https://www.evspecifications.com/images/model/b6a44b/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Roadster 3.0,,2016,https://www.evspecifications.com/images/model/48dd64/640/main.jpg,Onboard charger,Tesla charging inlet,-,-
+Tesla,Model S,75D,2016,https://www.evspecifications.com/images/model/86764c/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,75D,2016,https://www.evspecifications.com/images/model/86764c/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,75D,2016,https://www.evspecifications.com/images/model/86764c/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,P100D,2016,https://www.evspecifications.com/images/model/3fb754/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P100D,2016,https://www.evspecifications.com/images/model/3fb754/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model X,75D,2017,https://www.evspecifications.com/images/model/3f851f/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,75D,2017,https://www.evspecifications.com/images/model/3f851f/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,90D,2017,https://www.evspecifications.com/images/model/ea9e1c/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,90D,2017,https://www.evspecifications.com/images/model/ea9e1c/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,90D,2017,https://www.evspecifications.com/images/model/ea9e1c/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+Tesla,Model X,P100D,2017,https://www.evspecifications.com/images/model/b86423/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,P100D,2017,https://www.evspecifications.com/images/model/b86423/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,P100D,2017,https://www.evspecifications.com/images/model/b86423/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+Tesla,Model X,100D,2017,https://www.evspecifications.com/images/model/084124/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,100D,2017,https://www.evspecifications.com/images/model/084124/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,100D,2017,https://www.evspecifications.com/images/model/084124/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+Tesla,Model S,60 RWD Gen 2,2017,https://www.evspecifications.com/images/model/ffff50/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,60 RWD Gen 2,2017,https://www.evspecifications.com/images/model/ffff50/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,60 RWD Gen 2,2017,https://www.evspecifications.com/images/model/ffff50/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,60D,2017,https://www.evspecifications.com/images/model/0e9a4f/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,60D,2017,https://www.evspecifications.com/images/model/0e9a4f/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,60D,2017,https://www.evspecifications.com/images/model/0e9a4f/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,75 RWD,2017,https://www.evspecifications.com/images/model/b8a552/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,75 RWD,2017,https://www.evspecifications.com/images/model/b8a552/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,75 RWD,2017,https://www.evspecifications.com/images/model/b8a552/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,75D,2017,https://www.evspecifications.com/images/model/84c851/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,75D,2017,https://www.evspecifications.com/images/model/84c851/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,75D,2017,https://www.evspecifications.com/images/model/84c851/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Rivian,R1S,135 kWh,2020,https://www.evspecifications.com/images/model/fb6792/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
+Rivian,R1T,135 kWh,2020,https://www.evspecifications.com/images/model/8b4391/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
+Tesla,Model S,P100D,2017,https://www.evspecifications.com/images/model/7fb453/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P100D,2017,https://www.evspecifications.com/images/model/7fb453/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,100D,2017,https://www.evspecifications.com/images/model/6f4a42/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,100D,2017,https://www.evspecifications.com/images/model/6f4a42/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,100D,2017,https://www.evspecifications.com/images/model/6f4a42/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,90D,2017,https://www.evspecifications.com/images/model/7f5a49/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,90D,2017,https://www.evspecifications.com/images/model/7f5a49/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,90D,2017,https://www.evspecifications.com/images/model/7f5a49/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model X,75D,2018,https://www.evspecifications.com/images/model/6c051b/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,75D,2018,https://www.evspecifications.com/images/model/6c051b/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,100D,2018,https://www.evspecifications.com/images/model/5d4625/640/main.jpg,Onboard chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,100D,2018,https://www.evspecifications.com/images/model/5d4625/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,100D,2018,https://www.evspecifications.com/images/model/5d4625/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+Tesla,Model 3,Long Range RWD,2018,https://www.evspecifications.com/images/model/fda659/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,40 A
+Tesla,Model S,75D,2018,https://www.evspecifications.com/images/model/cdbe28/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,75D,2018,https://www.evspecifications.com/images/model/cdbe28/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,75D,2018,https://www.evspecifications.com/images/model/cdbe28/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model S,P100D,2018,https://www.evspecifications.com/images/model/399355/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,P100D,2018,https://www.evspecifications.com/images/model/399355/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,P100D,2018,https://www.evspecifications.com/images/model/399355/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model X,P100D,2018,https://www.evspecifications.com/images/model/3fad26/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,P100D,2018,https://www.evspecifications.com/images/model/3fad26/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,P100D,2018,https://www.evspecifications.com/images/model/3fad26/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+Tesla,Model 3,Mid Range RWD,2018,https://www.evspecifications.com/images/model/5f725c/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,32 A
+Tesla,Model S,100D,2018,https://www.evspecifications.com/images/model/e5d03c/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,100D,2018,https://www.evspecifications.com/images/model/e5d03c/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,100D,2018,https://www.evspecifications.com/images/model/e5d03c/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model 3,Performance AWD,2018,https://www.evspecifications.com/images/model/ba6a5b/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,40 A
+Tesla,Model 3,Mid Range RWD,2019,https://www.evspecifications.com/images/model/75c55d/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,32 A
+Tesla,Model S,Long Range,2019,https://www.evspecifications.com/images/model/b8ea56/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,Long Range,2019,https://www.evspecifications.com/images/model/b8ea56/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model 3,Long Range AWD,2018,https://www.evspecifications.com/images/model/06625a/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,40 A
+Tesla,Model S,Performance,2019,https://www.evspecifications.com/images/model/431157/640/main.jpg,Onboard charger,Tesla charging inlet,-,72 A
+Tesla,Model S,Performance,2019,https://www.evspecifications.com/images/model/431157/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model S,Performance,2019,https://www.evspecifications.com/images/model/431157/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,48 A
+Tesla,Model 3,Long Range AWD,2019,https://www.evspecifications.com/images/model/6d235e/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,-
+Tesla,Model 3,Long Range AWD,2019,https://www.evspecifications.com/images/model/6d235e/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,40 A
+Tesla,Model 3,Standard Range RWD,2019,https://www.evspecifications.com/images/model/bc5896/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,32 A
+Tesla,Model 3,Performance AWD,2019,https://www.evspecifications.com/images/model/dbde5f/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,-
+Tesla,Model X,Long Range,2019,https://www.evspecifications.com/images/model/78b865/640/main.jpg,Onboard chargers,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model 3,Performance AWD,2019,https://www.evspecifications.com/images/model/dbde5f/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,40 A
+Tesla,Model X,Long Range,2019,https://www.evspecifications.com/images/model/78b865/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,Long Range,2019,https://www.evspecifications.com/images/model/78b865/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+Tesla,Model 3,Standard Range Plus RWD,2019,https://www.evspecifications.com/images/model/bbc397/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,32 A
+Tesla,Model X,Performance,2019,https://www.evspecifications.com/images/model/6f3166/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",11 kW,-
+Tesla,Model X,Performance,2019,https://www.evspecifications.com/images/model/6f3166/640/main.jpg,Onboard charger,Tesla charging inlet,11.52 kW,48 A
+Tesla,Model X,Performance,2019,https://www.evspecifications.com/images/model/6f3166/640/main.jpg,Onboard charger,Tesla charging inlet,17.28 kW,72 A
+Volkswagen,e-Golf,SEL Premium,2015,https://www.evspecifications.com/images/model/919771/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+Volkswagen,e-Golf,SEL Premium,2015,https://www.evspecifications.com/images/model/919771/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+Tesla,Model 3,Long Range RWD,2019,https://www.evspecifications.com/images/model/3c3b98/640/main.jpg,Onboard charger,Tesla charging inlet,11.5 kW,32 A
+Volkswagen,e-up!,,2016,https://www.evspecifications.com/images/model/c0467a/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",-,7.2 A
+Volkswagen,e-Golf,SE,2017,https://www.evspecifications.com/images/model/bee175/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7.2 kW,-
+Volkswagen,e-Golf,SE,2016,https://www.evspecifications.com/images/model/cda673/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+Volkswagen,e-up!,,2016,https://www.evspecifications.com/images/model/c0467a/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.2 A
+Volkswagen,e-Golf,SE,2017,https://www.evspecifications.com/images/model/bee175/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
+Volkswagen,e-Golf,SE,2016,https://www.evspecifications.com/images/model/cda673/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+Volkswagen,e-Golf,Limited Edition,2015,https://www.evspecifications.com/images/model/640172/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+Volkswagen,e-Golf,Limited Edition,2015,https://www.evspecifications.com/images/model/640172/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+Volkswagen,e-Golf,SEL Premium,2017,https://www.evspecifications.com/images/model/f7c077/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
+Volkswagen,e-Golf,SEL Premium,2017,https://www.evspecifications.com/images/model/f7c077/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7.2 kW,-
+Volkswagen,e-Golf,SEL Premium,2016,https://www.evspecifications.com/images/model/32dd74/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+Volkswagen,e-Golf,SEL Premium,2016,https://www.evspecifications.com/images/model/32dd74/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+Volkswagen,e-Golf,SEL Premium,2019,https://www.evspecifications.com/images/model/68a979/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7.2 kW,-
+Volkswagen,e-Golf,SEL Premium,2019,https://www.evspecifications.com/images/model/68a979/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
+Volkswagen,e-up!,,2019,https://www.evspecifications.com/images/model/e4f07b/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",-,7.2 A
+Volkswagen,e-up!,,2019,https://www.evspecifications.com/images/model/e4f07b/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,7.2 A
+Volkswagen,e-Golf,Limited Edition,2017,https://www.evspecifications.com/images/model/0e7976/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
+Volkswagen,e-Golf,Limited Edition,2017,https://www.evspecifications.com/images/model/0e7976/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7.2 kW,-
+Nissan,Leaf,SV,2012,https://www.evspecifications.com/images/model/55b43/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
+Nissan,Leaf,SL,2012,https://www.evspecifications.com/images/model/96744/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
+Nissan,Leaf,SL,2012,https://www.evspecifications.com/images/model/96744/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,S,2013,https://www.evspecifications.com/images/model/7b505/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
+Nissan,Leaf,S,2013,https://www.evspecifications.com/images/model/7b505/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,S,2013,https://www.evspecifications.com/images/model/7b505/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,S,2014,https://www.evspecifications.com/images/model/381b8/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
+Nissan,Leaf,S,2014,https://www.evspecifications.com/images/model/381b8/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,S,2014,https://www.evspecifications.com/images/model/381b8/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SL,2014,https://www.evspecifications.com/images/model/f290a/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SL,2014,https://www.evspecifications.com/images/model/f290a/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,S,2015,https://www.evspecifications.com/images/model/95aeb/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
+Nissan,Leaf,S,2015,https://www.evspecifications.com/images/model/95aeb/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,S,2015,https://www.evspecifications.com/images/model/95aeb/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SV,2013,https://www.evspecifications.com/images/model/135f6/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SV,2013,https://www.evspecifications.com/images/model/135f6/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SV,2015,https://www.evspecifications.com/images/model/f0dcc/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SV,2015,https://www.evspecifications.com/images/model/f0dcc/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SL,2013,https://www.evspecifications.com/images/model/c54d7/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SL,2013,https://www.evspecifications.com/images/model/c54d7/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SV,2014,https://www.evspecifications.com/images/model/ad359/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SV,2014,https://www.evspecifications.com/images/model/ad359/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SL,2015,https://www.evspecifications.com/images/model/2379d/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SL,2015,https://www.evspecifications.com/images/model/2379d/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,S,2016,https://www.evspecifications.com/images/model/96bbe/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
+Nissan,Leaf,S,2016,https://www.evspecifications.com/images/model/96bbe/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,S,2016,https://www.evspecifications.com/images/model/96bbe/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SV,2016,https://www.evspecifications.com/images/model/077ef/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SV,2016,https://www.evspecifications.com/images/model/077ef/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,S,2017,https://www.evspecifications.com/images/model/960711/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",3.6 kW,-
+Nissan,Leaf,S,2017,https://www.evspecifications.com/images/model/960711/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,S,2017,https://www.evspecifications.com/images/model/960711/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SL,2016,https://www.evspecifications.com/images/model/d62c10/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SL,2016,https://www.evspecifications.com/images/model/d62c10/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SL,2017,https://www.evspecifications.com/images/model/7a2813/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SL,2017,https://www.evspecifications.com/images/model/7a2813/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,S,2018,https://www.evspecifications.com/images/model/0e5c14/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,S,2018,https://www.evspecifications.com/images/model/0e5c14/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SV,2018,https://www.evspecifications.com/images/model/0da615/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SV,2018,https://www.evspecifications.com/images/model/0da615/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SL,2018,https://www.evspecifications.com/images/model/09c216/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SL,2018,https://www.evspecifications.com/images/model/09c216/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SV,2017,https://www.evspecifications.com/images/model/9bf012/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SV,2017,https://www.evspecifications.com/images/model/9bf012/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Nissan,Leaf,SV,2019,https://www.evspecifications.com/images/model/f17918/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SV,2019,https://www.evspecifications.com/images/model/f17918/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+Nissan,Leaf,SV,2019,https://www.evspecifications.com/images/model/f17918/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+Volkswagen,e-Golf,SE,2019,https://www.evspecifications.com/images/model/e1d178/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+Volkswagen,e-Golf,SE,2019,https://www.evspecifications.com/images/model/e1d178/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+Nissan,Leaf,SV Plus,2019,https://www.evspecifications.com/images/model/bbbd9a/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+Nissan,Leaf,SV Plus,2019,https://www.evspecifications.com/images/model/bbbd9a/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SV Plus,2019,https://www.evspecifications.com/images/model/bbbd9a/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",100 kW,-
+Audi,e-tron 55 quattro,Premium Plus,2019,https://www.evspecifications.com/images/model/b59c68/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",9.6 kW,-
+Nissan,Leaf,SL,2019,https://www.evspecifications.com/images/model/7a7a19/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,SL,2019,https://www.evspecifications.com/images/model/7a7a19/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+Nissan,Leaf,SL,2019,https://www.evspecifications.com/images/model/7a7a19/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+NIO,ES8,70 kWh,2018,https://www.evspecifications.com/images/model/81eba9/640/main.jpg,DC charging port,-,-,250 A
+NIO,ES8,70 kWh,2018,https://www.evspecifications.com/images/model/81eba9/640/main.jpg,AC charging port,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7 kW,32 A
+NIO,ES8,84 kWh,2019,https://www.evspecifications.com/images/model/773caa/640/main.jpg,DC charging port,-,-,250 A
+NIO,ES8,84 kWh,2019,https://www.evspecifications.com/images/model/773caa/640/main.jpg,AC charging port,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7 kW,32 A
+Audi,e-tron 55 quattro,Prestige,2019,https://www.evspecifications.com/images/model/818469/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",9.6 kW,-
+Audi,e-tron 55 quattro,,2019,https://www.evspecifications.com/images/model/fff46a/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
+Audi,e-tron 55 quattro,,2019,https://www.evspecifications.com/images/model/fff46a/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",22 kW,-
+e.GO,Life,40,2019,https://www.evspecifications.com/images/model/0e32a6/640/main.jpg,On-board charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",3.7 kW,16 A
+e.GO,Life,60,2019,https://www.evspecifications.com/images/model/16f9a7/640/main.jpg,On-board charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",3.7 kW,16 A
+Hyundai,KONA Electric,39 kWh,2019,https://www.evspecifications.com/images/model/42546b/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+NIO,ES6,Standard 70 kWh,2019,https://www.evspecifications.com/images/model/de57ab/640/main.jpg,DC charging port,-,-,250 A
+NIO,ES6,Standard 70 kWh,2019,https://www.evspecifications.com/images/model/de57ab/640/main.jpg,AC charging port,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",7 kW,32 A
+Hyundai,KONA Electric,64 kWh,2019,https://www.evspecifications.com/images/model/2dee6c/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,-
+Hyundai,IONIQ Electric,28 kWh,2019,https://www.evspecifications.com/images/model/f21a6d/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",6.6 kW,-
+Hyundai,IONIQ Electric,28 kWh,2019,https://www.evspecifications.com/images/model/f21a6d/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",6.6 kW,-
+Hyundai,IONIQ Electric,38.3 kWh,2020,https://www.evspecifications.com/images/model/ced6a3/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",7.2 kW,48 A
+Nissan,Leaf,S Plus,2019,https://www.evspecifications.com/images/model/68ad67/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,S Plus,2019,https://www.evspecifications.com/images/model/68ad67/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+Nissan,Leaf,S Plus,2019,https://www.evspecifications.com/images/model/68ad67/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",100 kW,-
+BMW,i3s,33 kWh,2018,https://www.evspecifications.com/images/model/aa4f81/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
+BMW,i3s,33 kWh,2018,https://www.evspecifications.com/images/model/aa4f81/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
+Audi,Q4 e-tron,concept,2019,https://www.evspecifications.com/images/model/15509c/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",-,-
+Nissan,Leaf,S,2019,https://www.evspecifications.com/images/model/2bc417/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-2, Mennekes, SAE J3068)",6.6 kW,-
+Nissan,Leaf,S,2019,https://www.evspecifications.com/images/model/2bc417/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",6.6 kW,-
+Nissan,Leaf,S,2019,https://www.evspecifications.com/images/model/2bc417/640/main.jpg,Quick charge port,"Type 4 (IEC 62196-3 AA, CHAdeMO)",50 kW,-
+BMW,i3s,42 kWh,2019,https://www.evspecifications.com/images/model/207983/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
+BMW,i3s,42 kWh,2019,https://www.evspecifications.com/images/model/207983/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
+Chevrolet,Spark EV,,2016,https://www.evspecifications.com/images/model/89aeb1/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",-,-
+Chevrolet,Bolt EV,,2017,https://www.evspecifications.com/images/model/50ab8e/640/main.jpg,Optional onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+Chevrolet,Bolt EV,,2017,https://www.evspecifications.com/images/model/50ab8e/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
+BMW,i3,42 kWh,2019,https://www.evspecifications.com/images/model/cd6382/640/main.jpg,Onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",11 kW,-
+BMW,i3,42 kWh,2019,https://www.evspecifications.com/images/model/cd6382/640/main.jpg,Onboard charger,"Type 2 (IEC 62196-3 FF, CCS2)",11 kW,-
+Chevrolet,Bolt EV,,2019,https://www.evspecifications.com/images/model/18a190/640/main.jpg,Optional onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-
+Chevrolet,Bolt EV,,2019,https://www.evspecifications.com/images/model/18a190/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
+Chevrolet,Bolt EV,,2018,https://www.evspecifications.com/images/model/d46c8f/640/main.jpg,Onboard charger,"Type 1 (SAE J1772, IEC 61851-1, J Plug, Yazaki)",7.2 kW,-
+Chevrolet,Bolt EV,,2018,https://www.evspecifications.com/images/model/d46c8f/640/main.jpg,Optional onboard charger,"Type 1 (IEC 62196-3 CC, CCS1)",7.2 kW,-

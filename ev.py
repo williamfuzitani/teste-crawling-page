@@ -43,6 +43,7 @@ class BrickSetSpider(scrapy.Spider):
     def parse_specs(self, response):
         SPEC_SELECTOR = response.xpath(
             "//table[contains(.//text(), 'Name')]//tr")
+        IMAGE_SELECTOR = response.xpath("//*[@id='model-image']").xpath("@style").re('background-image: (url\((.*)\))')[1]
         BRAND_SELECTOR = response.xpath("//tr[contains(.//text(), 'Brand')]")
         MODEL_SELECTOR = response.xpath("//tr[contains(.//text(), 'Model')]")
         TRIM_SELECTOR = response.xpath("//tr[contains(.//text(), 'Trim')]")
@@ -55,6 +56,7 @@ class BrickSetSpider(scrapy.Spider):
                 'MODEL': MODEL_SELECTOR.css('td:not(:first-child) ::text').get(),
                 'TRIM': TRIM_SELECTOR.css('td:not(:first-child) ::text').get(),
                 'YEAR': YEAR_SELECTOR.css('td:not(:first-child) ::text').get(),
+                'IMAGE LINK': IMAGE_SELECTOR,
 
                 'NAME': spec.css('td ::text')[0].get(),
                 'INTERFACE': spec.css('td ::text')[1].get(),
