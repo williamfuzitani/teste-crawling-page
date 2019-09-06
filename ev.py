@@ -1,10 +1,4 @@
-# response.css('div.brand-listing-container-frontpage a').getall()
 import scrapy
-
-# class Car(scrap.Item):
-#     brand = scrapy.Field()
-#     model = scrapy.Field()
-#     year = scrapy.Field()
 
 class BrickSetSpider(scrapy.Spider):
     name = "ev"
@@ -47,20 +41,35 @@ class BrickSetSpider(scrapy.Spider):
                 )
 
     def parse_specs(self, response):
-        SPEC_SELECTOR = response.xpath('/html/body/div[3]/div[4]/table[1]')
-        yield {
-            'brand': SPEC_SELECTOR.xpath('tr[1]/td[2]//text()').get(),
-            'model': SPEC_SELECTOR.xpath('tr[2]/td[2]//text()').get(),
-            'year': SPEC_SELECTOR.xpath('tr[4]/td[2]//text()').get()
-        }
+        SPEC_SELECTOR = response.xpath(
+            "//table[contains(.//text(), 'Name')]//tr")
+        BRAND_SELECTOR = response.xpath("//tr[contains(.//text(), 'Brand')]")
+        MODEL_SELECTOR = response.xpath("//tr[contains(.//text(), 'Model')]")
+        TRIM_SELECTOR = response.xpath("//tr[contains(.//text(), 'Trim')]")
+        YEAR_SELECTOR = response.xpath(
+            "//tr[contains(.//text(), 'Model year')]")
 
+        for spec in SPEC_SELECTOR[1:]:
+            yield {
+                'BRAND': BRAND_SELECTOR.css('td:not(:first-child) ::text').get(),
+                'MODEL': MODEL_SELECTOR.css('td:not(:first-child) ::text').get(),
+                'TRIM': TRIM_SELECTOR.css('td:not(:first-child) ::text').get(),
+                'YEAR': YEAR_SELECTOR.css('td:not(:first-child) ::text').get(),
 
-        # for spec_car in SPEC_SELECTOR[0:]:
-        #     BRAND = 'tr td ::text'
-        #     MODEL = 'tr td ::text'
-        #     YEAR = 'tr td ::text'
-        #     yield {
-        #         'brand': spec_car.css(BRAND).get(),
-        #         'model': spec_car.css(MODEL).get(),
-        #         'year': spec_car.css(YEAR).get()
-        #     }
+                'NAME': spec.css('td ::text')[0].get(),
+                'INTERFACE': spec.css('td ::text')[1].get(),
+                'POWER': spec.css('td ::text')[2].get(),
+                'CURRENT': spec.css('td ::text')[3].get()
+            }
+
+        # yield {
+        #     'brand': BRAND_SELECTOR.css('td:not(:first-child) ::text').get(),
+        #     'model': MODEL_SELECTOR.css('td:not(:first-child) ::text').get(),
+        #     'trim': TRIM_SELECTOR.css('td:not(:first-child) ::text').get(),
+        #     'year': YEAR_SELECTOR.css('td:not(:first-child) ::text').get(),
+
+        #     'name': SPEC_SELECTOR.css('td ::text')[0].get(),
+        #     'interface': SPEC_SELECTOR.css('td ::text')[1].get(),
+        #     'power': SPEC_SELECTOR.css('td ::text')[2].get(),
+        #     'current': SPEC_SELECTOR.css('td ::text')[3].get()
+        # }
